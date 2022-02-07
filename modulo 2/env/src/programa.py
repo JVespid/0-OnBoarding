@@ -1,4 +1,6 @@
 
+# Realiza un programa que muestre la fecha actual, y la fecha de mañana
+
 from datetime import *
 from dateutil.relativedelta import *
 
